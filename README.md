@@ -1,5 +1,5 @@
 # job_scraper
-Using Indeed's API to scrape for job listings to get more familiar with interacting with APIs and OOB programming
+Using BeautifulSoup to scrape and filter data on Indeed while practicing object oriented programming
 
 BeautifulSoup4 Python Library
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
