@@ -1,9 +1,6 @@
 # job_scraper
 Using Indeed's API to scrape for job listings to get more familiar with interacting with APIs and OOB programming
 
-Indeed Python Client
-https://github.com/indeedlabs/indeed-python
-
 BeautifulSoup4 Python Library
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/
 
